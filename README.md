@@ -1,5 +1,6 @@
 # facedrive-docs
 ## How does it works?
+### Backend
 1. Checkout the `development` branch
 2. cd to : `pom.xml`, change active profile: 
 ```
